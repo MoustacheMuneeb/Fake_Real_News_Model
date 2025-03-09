@@ -1,5 +1,7 @@
 📰 Fake News Detection Model
+
 📌 Overview
+
 This project is a Machine Learning-based Fake News Detection Model that classifies news articles as FAKE or REAL using Natural Language Processing (NLP) techniques. It is trained on TF-IDF vectorized text data and achieves 83% accuracy using a Naïve Bayes classifier.
 
 🚀 Features
